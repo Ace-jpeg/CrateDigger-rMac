@@ -1,2 +1,2 @@
-# CrateDigger-rMac
-CrateDigger MacOS Releases
+# CrateDigger MacOS Releases
+This is a repository for MacOS releases for CrateDigger.
